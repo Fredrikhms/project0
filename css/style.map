@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"\r\n\r\nh1 {\r\n  text-align: center;\r\n}\r\n\r\nimg {\r\n  width: 100%;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAEA,AAAA,EAAE,CAAC;EACD,UAAU,EAAE,MAAM;CACnB;;;AAED,AAAA,GAAG,CAAC;EACF,KAAK,EAAE,IAAI;CACZ"
+}
