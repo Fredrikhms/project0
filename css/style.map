@@ -5,8 +5,8 @@
 		"../scss/style.scss"
 	],
 	"sourcesContent": [
-		"#CatGrid {\r\n}\r\n\r\nh1 {\r\n  text-align: center;\r\n}\r\n\r\nimg {\r\n  width: 100%;\r\n    padding: 0px;\r\n    margin: 0px;\r\n}\r\n"
+		"#CatGrid {\r\n}\r\n\r\nh1 {\r\n  text-align: center;\r\n}\r\n\r\nimg {\r\n    padding: 0px;\r\n    margin: 0px;\r\n}\r\n"
 	],
 	"names": [],
-	"mappings": ";AAGA,AAAA,EAAE,CAAC;EACD,UAAU,EAAE,MAAM;CACnB;;;AAED,AAAA,GAAG,CAAC;EACF,KAAK,EAAE,IAAI;EACT,OAAO,EAAE,GAAG;EACZ,MAAM,EAAE,GAAG;CACd"
+	"mappings": ";AAGA,AAAA,EAAE,CAAC;EACD,UAAU,EAAE,MAAM;CACnB;;;AAED,AAAA,GAAG,CAAC;EACA,OAAO,EAAE,GAAG;EACZ,MAAM,EAAE,GAAG;CACd"
 }
