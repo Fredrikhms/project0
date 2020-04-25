@@ -5,10 +5,15 @@ h1 {
 
 /* line 8, ../../dev/EDx/CS50-web/project0/scss/style.scss */
 img {
-  padding: 0px;
+  padding: 20px;
   margin: 0px;
   max-width: 100%;
   height: auto;
+}
+
+/* line 15, ../../dev/EDx/CS50-web/project0/scss/style.scss */
+.content {
+  padding: 20px;
 }
 
 /*# sourceMappingURL=style.css.map */
