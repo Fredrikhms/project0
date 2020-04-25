@@ -1,17 +1,35 @@
-#CatGrid {
+$padding: 20px;
+$small-screen-limit: 500px;
+
+%padding {
+  padding: $padding;
 }
 
-h1 {
+/*Large screen */
+@media (min-width: $small-screen-limit) {
+  .navbar-brand {
+    display: inherit;
+  }
+}
+
+/*Small screen */
+@media (max-width: $small-screen-limit - 1) {
+  .navbar-brand {
+    display: none;
+  }
+}
+
+#CatsAndDogs, h1 {
   text-align: center;
 }
 
-img {
-    padding: 20px;
-    margin: 0px;
-    max-width: 100%;
-    max-height: auto;
+.content {
+  @extend %padding;
 }
 
-.content {
-  padding: 20px;
+img {
+  @extend %padding;
+  margin: 0px;
+  max-width: 100%;
+  max-height: auto;
 }
