@@ -8,7 +8,7 @@ img {
   padding: 20px;
   margin: 0px;
   max-width: 100%;
-  height: auto;
+  max-height: auto;
 }
 
 /* line 15, ../../dev/EDx/CS50-web/project0/scss/style.scss */
